@@ -1,3 +1,3 @@
 # ProyectoParking
-Proyecto realizado como entrenamiento de mi primer año del superior de programacion.
+Proyecto realizado como entrenamiento de mi primer año del superior de programacion, realizado para el final del segundo trimestre.
 Consiste en practicar las collections: hashSet, hashMap, List...
